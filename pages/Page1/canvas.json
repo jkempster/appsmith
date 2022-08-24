@@ -146,6 +146,7 @@
                 }
               },
               "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+              "primaryColumnId": "timestamp",
               "defaultSelectedRowIndices": [
                 0
               ],
@@ -168,10 +169,13 @@
                 "task": 245,
                 "step": 62,
                 "status": 75,
-                "credit": 72,
+                "credit": 202,
                 "gameKey": 167,
                 "accountId": 115,
-                "website": 118
+                "website": 118,
+                "debit": 68.00000000000003,
+                "gameplayId": 341,
+                "timestamp": 203
               },
               "parentRowSpace": 10,
               "hideCard": false,
@@ -313,7 +317,7 @@
                   "cellBackground": ""
                 },
                 "timestamp": {
-                  "allowCellWrapping": false,
+                  "allowCellWrapping": true,
                   "index": 5,
                   "width": 150,
                   "originalId": "timestamp",
