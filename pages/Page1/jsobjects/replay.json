@@ -1,0 +1,24 @@
+{
+  "unpublishedCollection": {
+    "name": "replay",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "body": "export default {\n\tmyVar1: [],\n\tmyVar2: {},\n\tmyFun1: () => {\n\t\twindow.open(\"https://www.jackpotjoy.com\")\n\t},\n\tmyFun2: async () => {\n\t\t//use async-await or promises\n\t}\n}",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ]
+  },
+  "id": "Page1_replay",
+  "deleted": false,
+  "gitSyncId": "63060957bd8fd11551ed3da8_630614d6bd8fd11551ed3db7"
+}
